@@ -1,6 +1,32 @@
-# Hotot
+># FlyingBird&trade;
+
+![](https://travis-ci.org/skopp/flyingbird.png?branch=master)
+
+    # Timeline / Roadmap / Stuff to do
+    
+    #1: Make Mr Travis glow green.... 
+    
+    * Work, fork, work!
+    * Turn this into a damn checklist thing that can be tickled (and ticked)
+    * Heello support
+    * Lettery "
+    * Coderbits "
+    * Geeklist "
+    * Coderwall
+    * Eat donuts
+    * MOAR?! 
+        of course.... 
+
+* what is agile deploy i dont even
+* what is lean mgmt i dont even
+* and what is kunbun is it tasty!?
+* who framed the bunny? STOP IT
+
+===
+
+# Hotot-powered!
 Hotot is a "Lightweight, Flexible Microblogging Client" supporting
-Twitter and Identi.ca at this point of development. You may visit our
+T****r and Identi.ca at this point of development. You may visit our
 official website at http://hotot.org/ . Check it out for any updates
 on Hotot.
 
